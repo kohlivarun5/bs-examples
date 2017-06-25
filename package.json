@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "bsb",
-    "watch": "bsb -watch"
+    "watch": "bsb -w"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/kohlivarun5/bs-examples/issues"
   },
-  "homepage": "https://github.com/kohlivarun5/bs-examples#readme"
+  "homepage": "https://github.com/kohlivarun5/bs-examples#readme",
+  "dependencies": {
+    "bs-platform": "^1.7.5"
+  }
 }
