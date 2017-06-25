@@ -1,0 +1,24 @@
+{
+  "name": "bs-examples",
+  "version": "1.0.0",
+  "description": "Bucklescript examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "bsb",
+    "watch": "bsb -watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kohlivarun5/bs-examples.git"
+  },
+  "keywords": [
+    "bucklescript",
+    "example"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kohlivarun5/bs-examples/issues"
+  },
+  "homepage": "https://github.com/kohlivarun5/bs-examples#readme"
+}
